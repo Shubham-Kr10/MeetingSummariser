@@ -13,4 +13,4 @@ Add your values in .env
 i have below permissions in app registrations:
 
 
-![images\Permissions.png](images\Permissions.png)
+![images\Permissions.png](images/Permissions.png)
